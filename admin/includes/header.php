@@ -16,10 +16,10 @@
 	<link rel="preload" as="font" href="css/icon.woff2" type="font/woff2" crossorigin="anonymous">
 	<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 	<!--== CSS FILES ==-->
-	<link rel="stylesheet" href="../css/jquery-ui.css">
-	<link rel="stylesheet" href="../css/bootstrap.css">
+	<link rel="stylesheet" href="css/jquery-ui.css">
+	<link rel="stylesheet" href="css/bootstrap.css">
 	<link rel="stylesheet" href="css/admin-style.css">
-	<link rel="stylesheet" href="../css/fonts.css">
+	<link rel="stylesheet" href="css/fonts.css">
 	<link rel="stylesheet" href="https://cdn.datatables.net/1.10.20/css/dataTables.bootstrap4.min.css">
 	<!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
 	<!-- WARNING: Respond.js doesn't work if you view the page via file:// -->

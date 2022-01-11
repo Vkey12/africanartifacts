@@ -207,10 +207,10 @@ if (strlen($_SESSION['id']==0)) {
 	<!-- END -->
 	<!-- Optional JavaScript -->
 	<!-- jQuery first, then Popper.js, then Bootstrap JS -->
-	<script src="../js/jquery.min.js"></script>
-	<script src="../js/popper.min.js"></script>
-	<script src="../js/bootstrap.min.js"></script>
-	<script src="../js/jquery-ui.js"></script>
+	<script src="js/jquery.min.js"></script>
+	<script src="js/popper.min.js"></script>
+	<script src="js/bootstrap.min.js"></script>
+	<script src="js/jquery-ui.js"></script>
 	<script src="js/admin-custom.js"></script>
 	<script src="http://harvesthq.github.io/chosen/chosen.jquery.js"></script>
 </body>
