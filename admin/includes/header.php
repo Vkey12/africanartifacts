@@ -2,7 +2,7 @@
 <html lang="en">
 
 <head>
-	<title>Bizbook Admin Panel</title>
+	<title>African Artifacts</title>
 	<!--== META TAGS ==-->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
