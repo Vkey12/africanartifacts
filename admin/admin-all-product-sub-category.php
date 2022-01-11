@@ -12,7 +12,11 @@ if (strlen($_SESSION['id'] == 0)) {
         $msg = mysqli_query($conn, "delete from sub_cat where subcatid='$adminid'");
         if ($msg) {
             echo "<script>alert('Data deleted');</script>";
+
+            echo "<script> window.location.href='admin-all-product-sub-category.php';</script>";
+
             exit();
+
         }
     }
 
