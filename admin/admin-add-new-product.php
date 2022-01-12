@@ -18,8 +18,8 @@ if (strlen($_SESSION['id'] == 0)) {
     <?php
     function resizeImage($resourceType, $image_width, $image_height, $resizeWidth, $resizeHeight)
     {
-        $resizeWidth = 600;
-        $resizeHeight = 600;
+        $resizeWidth = 320;
+        $resizeHeight = 320;
         $imageLayer = imagecreatetruecolor($resizeWidth, $resizeHeight);
         $background = imagecolorallocate($imageLayer, 0, 0, 0);
         // removing the black from the placeholder
@@ -366,11 +366,11 @@ if (strlen($_SESSION['id'] == 0)) {
 
     <!-- Optional JavaScript -->
     <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="../js/jquery.min.js"></script>
-    <script src="../js/popper.min.js"></script>
-    <script src="../js/bootstrap.min.js"></script>
-    <script src="../js/jquery-ui.js"></script>
-    <script src="../js/select-opt.js"></script>
+    <script src="js/jquery.min.js"></script>
+    <script src="js/popper.min.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/select-opt.js"></script>
     <script src="js/admin-custom.js"></script>
     <!-- <script>
         function getProductSubCategory(val) {
