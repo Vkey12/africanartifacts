@@ -201,7 +201,7 @@ include 'admin/connect.php';?>
                 <div class="container container-240">
                     <div class="row flex">
                         <div class="col-lg-2 col-md-2 col-sm-6 col-xs-6 v-center header-logo">
-                            <a href="#"><img src="img/logo.png" alt="" class="img-reponsive"></a>
+                            <a href="#"><img src="img/log.png" alt="" class="img-reponsive"></a>
                         </div>
                         <div class="col-lg-7 col-md-7 v-center header-search hidden-xs hidden-sm">
                             <form method="get" class="searchform ajax-search" action="/search" role="search">
